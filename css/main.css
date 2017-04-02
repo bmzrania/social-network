@@ -1,0 +1,21 @@
+a
+{
+
+	color :red;
+}
+
+a:hover
+{
+	color: :black;
+}
+
+ul
+{
+        text-align:center;
+}
+
+li
+{
+	display: inline;
+}
+
